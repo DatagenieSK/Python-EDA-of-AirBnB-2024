@@ -5,6 +5,8 @@ This project involves an exploratory data analysis (EDA) of a comprehensive Airb
 
 ---
 
+## **Live Demo** - https://datageniesk.github.io/Python-EDA-of-AirBnB-2024/
+
 ## **Features**
 - **Data Cleaning**:
   - Handled missing values, removed duplicates, and treated outliers for a clean and reliable dataset.
